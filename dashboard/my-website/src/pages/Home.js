@@ -1,0 +1,7 @@
+import React from "react";
+
+const Home = () => {
+  return <h1>Ana Sayfa</h1>;
+};
+
+export default Home;
